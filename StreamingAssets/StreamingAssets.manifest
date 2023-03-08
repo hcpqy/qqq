@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 4194154677
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assetbundle.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: abscene.abscene
+      Dependencies: {}
